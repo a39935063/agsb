@@ -34,8 +34,8 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "kk"         # 用户名
 UUID = "555349c2-10f1-467d-b042-834036853d0e"                     # UUID，留空则自动生成
 PORT = 49998                   # Vmess端口，留空或0则自动生成
-DOMAIN = "kk.h25.dpdns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "{"AccountTag":"1d903a51024a5b4bc02279e3b32715a1","TunnelSecret":"lIn06cainfdvxy3u2aMHr0nXm296HUW2Q/I9y0uEqq0=","TunnelID":"a327b7e6-11bd-4638-b4a4-088d8d874c51","Endpoint":""}"                 # Cloudflare Token，留空则用Quick Tunnel
+DOMAIN = "kkk.h25.dpdns.org"                   # 域名，留空则自动获取
+CF_TOKEN = "eyJhIjoiMWQ5MDNhNTEwMjRhNWI0YmMwMjI3OWUzYjMyNzE1YTEiLCJ0IjoiNjI1MTRiNDMtYmQ3MC00OGUzLWFkYjctNDgxMDYwYTk1YTY1IiwicyI6Ik16WTBZMlExTm1ZdE1HTXpOeTAwTWpFNExXSTNNakF0TVdJMFpqWTNabU16T0RCaSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
